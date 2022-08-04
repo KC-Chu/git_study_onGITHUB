@@ -1,7 +1,7 @@
 import PyEigerData as Eiger
 import numpy as np
 import matplotlib.pyplot as plt
-
+#%%
 from skimage.transform import resize, rotate
 import math
 import time
